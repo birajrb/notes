@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Happy",
+      "details": "Don't be sad because sad backwards is das and das not good.",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Melancholy",
+      "details": "Melancholy is the happiness of being sad.",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "Memories",
+      "details": "Memories of a time that will never come back but are still here.",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "Coding",
+      "details": "Learn to code daily.",
+      "category": "chores",
+      "id": 7
+    }
+  ]
+}
